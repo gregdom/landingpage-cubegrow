@@ -1,4 +1,4 @@
-Link CubeGrow (Netlify): https://startling-custard-0f37f4.netlify.app/
+Projeto CubeGrow. (Desenvolvido em VueJS)
 
 Este é um projeto que desenvolvi para uma agência (fictícia) de marketing digital que ajuda empresas de comércio eletrônico a crescer e aumentar suas vendas. O projeto foi construído usando Vue.js e a metodologia Atomic Design.
 
