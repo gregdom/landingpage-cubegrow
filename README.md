@@ -1,24 +1,7 @@
-# magento
+Link CubeGrow (Netlify): https://startling-custard-0f37f4.netlify.app/
 
-## Project setup
-```
-yarn install
-```
+Este é um projeto que desenvolvi para uma agência (fictícia) de marketing digital que ajuda empresas de comércio eletrônico a crescer e aumentar suas vendas. O projeto foi construído usando Vue.js e a metodologia Atomic Design.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Sinta-se à vontade para explorar o código e compartilhar suas opiniões e sugestões. Obrigado por visitar o meu repositório!
+Link do site no ar (Netlify): https://startling-custard-0f37f4.netlify.app/
+Design UI/UX: https://www.uplabs.com/kapil_chandera 
