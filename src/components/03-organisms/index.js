@@ -1,8 +1,0 @@
-export { default as Header } from './Header.vue'
-export { default as Hero } from './Hero.vue'
-export { default as Features } from './Features.vue'
-export { default as Services } from './Services.vue'
-export { default as Media } from './Media.vue'
-export { default as SocialProof } from './SocialProof.vue'
-export { default as Accordion } from './Accordion.vue'
-export { default as Footer } from './Footer.vue'
