@@ -1,0 +1,15 @@
+:root {
+  --primary-color: #7d3bff;
+  --secondary-color: #7d3bff33;
+  --third-color: #e1d7fc;
+  --text-white-color: #fff;
+  --text-black-color: #000;
+  --text-primary-purple-color: #958fab;
+  --text-secondary-purple-color: #455A64;
+
+  --primary-bg: #f9f5ff;
+  --secondary-bg: #7d3bff33;
+  --third-bg: #0c141d;
+
+  --border: 1px solid #000;
+}
