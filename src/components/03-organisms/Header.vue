@@ -56,8 +56,6 @@ export default {
   },
   methods: {
     toggleMenu() {
-      console.log('teste')
-      console.log(this.isOpen)
       this.isOpen = !this.isOpen
     },
   },
